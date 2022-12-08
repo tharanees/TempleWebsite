@@ -1,0 +1,164 @@
+
+body {
+  font-family: 'Merriweather', serif;
+  text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Roboto', sans-serif;
+}
+
+
+/* Headings */
+
+.big-heading {
+  font-size: 3.5rem;
+  line-height: 1.5;
+  color: #411E64;
+}
+
+.title-para{
+  color:white;
+  font-size: 1rem;
+  line-height: 2;
+}
+
+
+.section-heading {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.YouTube-Link{
+  margin-bottom: 0;
+}
+
+.location-text{
+  background-color: #f2dcbb;
+  padding-bottom: 2%;
+}
+
+/* Containers */
+
+/* .container-fluid{
+  padding: 7% 15%;
+} */
+
+/* Sections */
+
+
+
+/* Navigation Bar */
+
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-style: italic;
+
+}
+
+/* Buttons */
+
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+/* Title Section */
+
+#title {
+  background-color:orange;
+  text-align: left;
+}
+
+#title .container-fluid {
+  padding: 3% 3% 7%;
+}
+
+.logo{
+  width:7%;
+}
+
+/* Title Image */
+
+.title-image {
+  width:90%;
+}
+
+.lamp{
+  width:30%;
+  float:right;
+  margin-left: 20px;
+}
+
+.oil-lamp{
+  display:inline-block;
+  position: relative;
+  top: 5%;
+  padding-top: 3%;
+}
+
+.text{
+  text-align: left;
+  font-size: 1rem;
+  line-height: 2;
+}
+
+/* Features Section */
+
+#features {
+  padding-bottom: 3%;
+  background-color: #f2dcbb;
+}
+
+.feature-title {
+  font-size: 1.5rem;
+}
+
+.feature-box {
+  padding: 4.5%;
+}
+
+/* Testimonial Section */
+
+#videos{
+  padding-top: 3%;
+  background-color: orange;
+  color:white;
+  font-size: 1rem;
+  line-height: 2;
+}
+
+.video_text{
+  padding-top:5%;
+}
+
+/* Pricing Section */
+
+#contact{
+  padding: 3% 6%;
+  background-color: #f2dcbb;
+}
+
+/* CTA Section */
+#cta{
+  /* padding-top: 3%; */
+}
+
+/* @media (max-width: 1028px) {
+
+  .title-image {
+    width:
+  }
+} */
